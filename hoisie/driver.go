@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/hoisie/redis"
-	"github.com/kavu/go-resque"
-	"github.com/kavu/go-resque/driver"
+	"github.com/kiddom/go-resque"
+	"github.com/kiddom/go-resque/driver"
 )
 
 func init() {
